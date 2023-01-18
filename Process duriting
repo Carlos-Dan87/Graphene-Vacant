@@ -1,0 +1,7 @@
+Timings for individual modules:
+
+Sum of individual times         ...      214.237 sec (=   3.571 min)
+GTO integral calculation        ...       11.027 sec (=   0.184 min)   5.1 %
+SCF iterations                  ...      203.210 sec (=   3.387 min)  94.9 %
+                             ****ORCA TERMINATED NORMALLY****
+TOTAL RUN TIME: 0 days 0 hours 3 minutes 35 seconds 437 msec
