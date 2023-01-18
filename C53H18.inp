@@ -1,0 +1,7 @@
+!pal8
+%base "C53-M1"
+!PBE def2-ECP def2-svp def2/j tightscf D3
+% scf
+ MaxIter=1500
+end
+*xyzfile 0 1 geometria.xyz
